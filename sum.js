@@ -10,6 +10,6 @@ if (typeof integer !== 'number') {
 array.push(integer);
 }
 
-let arr = [1, 2, 3];
+let arr = [1, 2, 3,4,5,6,7gi];
 addInteger(arr, 4);
 console.log(arr); // [1, 2, 3, 4]
